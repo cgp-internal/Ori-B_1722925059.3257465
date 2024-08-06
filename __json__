@@ -1,0 +1,22 @@
+{
+    "cities.csv": {
+        "description": "Standalone CSV file containing city data with columns for name, country, and mayor, initialized with three sample records.",
+        "data": [
+            {
+                "name": "New York",
+                "country": "USA",
+                "mayor": "Bill de Blasio"
+            },
+            {
+                "name": "London",
+                "country": "UK",
+                "mayor": "Sadiq Khan"
+            },
+            {
+                "name": "Paris",
+                "country": "France",
+                "mayor": "Anne Hidalgo"
+            }
+        ]
+    }
+}
